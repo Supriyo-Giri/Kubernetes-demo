@@ -1,1 +1,1 @@
-## this is kubernetes demno
+## this is kubernetes demo
